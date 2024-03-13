@@ -52,7 +52,7 @@ jobs:
         with:
           command: buildozer android debug
           buildozer_version: master
-          distribution: dist_name=myapp dist_version=1.0.0
+          distribution: dist_name=languagedetector dist_version=1.0.0
 
       - name: Upload artifacts
         uses: actions/upload-artifact@v2
