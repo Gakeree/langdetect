@@ -7,7 +7,7 @@ title =  LanguageDetector
 package.name = LDapk
 
 # (str) Package domain (needed for android/ios packaging)
-package.domain = org.novfensec
+package.domain =  com.gmail.kenedygakere
 
 # (str) Source code where the main.py live
 source.dir = .
