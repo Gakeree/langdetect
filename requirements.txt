@@ -1,0 +1,5 @@
+kivy
+pandas
+joblib
+nltk
+scikit-learn
